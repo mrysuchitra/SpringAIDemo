@@ -1,0 +1,4 @@
+Sample data for mcp.txt
+Line 1: Hello SpringAI
+Line 2: This is a sample file created by the assistant.
+Line 3: End of file.
